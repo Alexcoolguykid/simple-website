@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+lesson1.guru	TRUE	/	FALSE	1999999999	PHPSESSID	ab3jmk79go6nu91a6o1snme74j
+lesson1.guru	TRUE	/	FALSE	1999999999	lastplay	3
+
